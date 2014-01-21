@@ -1,3 +1,7 @@
  
-###Indoor Positioning System###
-Parmi les technologies de géolocalisation, la plus populaire de nos jours est le GPS. C’est un système de localisation satellitaire construit pour un environnement extérieur. De ce fait, ses performances en intérieurs sont plutôt mauvaises. Ceci est dû aux matériaux de construction qui bloquent la plupart des signaux GPS. La géolocalisation indoor est donc pour le moment un domaine très ouvert où aucune des technologies actuellement développées n’a pris de réel avantage. Le but de cette étude est de démontrer la faisabilité d’une localisation utilisant la RFID en tant que technologie active.
+#Indoor Positioning System
+Parmi les technologies de g√©olocalisation, la plus populaire de nos jours est le GPS. C‚Äôest un syst√®me de localisation satellitaire construit pour un environnement ext√©rieur. De ce fait, ses performances en int√©rieurs sont plut√¥t mauvaises. Ceci est d√ª aux mat√©riaux de construction qui bloquent la plupart des signaux GPS. La g√©olocalisation indoor est donc pour le moment un domaine tr√®s ouvert o√π aucune des technologies actuellement d√©velopp√©es n‚Äôa pris de r√©el avantage. Le but de cette √©tude est de d√©montrer la faisabilit√© d‚Äôune localisation utilisant la RFID en tant que technologie active.
+
+La pr√©sentation de ce projet se trouve [ici](http://prezi.com/h2lhgzqwe3ud/ips/).
+
+Plus de d√©tails [ici](https://github.com/matdutour/Indoor_Positionning_System/blob/master/presentation/dossier.pdf).
